@@ -23,11 +23,56 @@ Dr-Brandy-Robinson [369.2s-372.0s]: The core modules are the required course loa
 Jared-VP_Consumer [669.0s-675.0s]:  Then as you move through those six projects, they all tie to one of our core courses.
 ```
 
+### Background
+
+I regularly screen record important meetings for reference, including my capstone project discussions. These recordings are valuable but present challenges:
+- Video files are very large (500+ MB)
+- Manual transcription is extremely time-consuming
+- Identifying who said what is difficult from memory
+
+### Solution Workflow
+
+1. **Record Meeting**: Screen record the session
+   - Original file size: ~500 MB
+   
+2. **Compress Video**: Use [HandBrake](https://handbrake.fr/) to reduce file size
+   - Original: 500 MB
+   - Compressed: 199 MB (60% reduction)
+   - Quality: Maintains audio clarity for transcription
+   
+3. **Transcribe**: Upload to Google Colab and run this pipeline
+   
+4. **Get Results**: Accurate transcript with speaker identification in 10-15 minutes
+
+### HandBrake Compression Settings
+
+To optimize video files for transcription while maintaining audio quality:
+
+| Setting | Value | Reason |
+|---------|-------|--------|
+| Video Codec | H.264 | Universal compatibility |
+| Quality | RF 28-30 | Balances size and clarity |
+| Audio Codec | AAC | Efficient speech encoding |
+| Audio Bitrate | 128 kbps | Perfect for speech |
+| Frame Rate | 15 fps | Speech doesn't need high fps |
+
+**Result**: 60% file size reduction with no loss in transcription accuracy!
+
+### Benefits
+
+- ✅ Searchable meeting notes
+- ✅ Accurate speaker attribution  
+- ✅ Timestamped references for follow-up
+- ✅ Smaller file sizes for easier storage and upload
+- ✅ Review key points without watching entire video
+- ✅ Perfect for capstone projects, important meetings, and lectures
+
 ## Prerequisites
 
 - Google account (for Google Colab)
 - HuggingFace account (free)
 - Video file (MP4, AVI, MOV, etc.)
+- [Optional] HandBrake for video compression
 
 ## Quick Start
 
