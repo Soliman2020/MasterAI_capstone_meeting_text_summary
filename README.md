@@ -113,7 +113,8 @@ pip install -r requirements.txt
 
 ```
 capstone_text/
-├── AI_capstone_transcript.ipynb    # Main Colab notebook
+├── AI_capstone_transcript.ipynb    # Main Colab notebook _ Download locally to see the cells output (GitHub metadata.widgets issue)
+├── transcription_notebook.ipynb    # Main Colab notebook with no cell outputs
 ├── real_speakers_names.py          # Script to replace speaker IDs
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Documentation
