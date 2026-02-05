@@ -1,0 +1,19 @@
+# Core Dependencies
+whisperx
+torch>=2.3.1
+torchvision>=0.18.1
+torchaudio>=2.3.1
+
+# Speaker Diarization
+pyannote.audio
+
+# HuggingFace Integration
+huggingface_hub
+transformers>=4.40.0
+
+# Audio/Video Processing
+ffmpeg-python
+
+# Utilities
+numpy
+pandas

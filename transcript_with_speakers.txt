@@ -1,0 +1,505 @@
+VIDEO TRANSCRIPT WITH SPEAKER IDENTIFICATION
+======================================================================
+
+SPEAKER_01 [135.0s-140.1s]:  A lot of people saying hello in the chat, sharing where they're from, reporting the weather.
+SPEAKER_01 [140.9s-150.1s]: Very glad to see you all and excited this morning, evening, afternoon, to talk about our Masters in AI capstone project.
+SPEAKER_01 [151.6s-157.2s]: First, by way of introducing myself, my name is Patrick, and I lead consumer marketing at Udacity.
+SPEAKER_01 [157.8s-171.5s]:  And I am very, very excited to be joined by Jared Moulton, our VP of Consumer at Udacity, and more or less the brains behind making this master's in AI a reality for students.
+SPEAKER_01 [172.8s-173.7s]: Thanks for joining, Jared.
+SPEAKER_02 [174.4s-175.1s]: Thanks for having me.
+SPEAKER_02 [175.1s-176.5s]: Hi from Seattle, Washington.
+SPEAKER_02 [177.1s-179.8s]: Great to see so many faces from all over the world.
+SPEAKER_01 [181.2s-184.4s]:  We are also very fortunate to be joined by Dr.
+SPEAKER_01 [184.4s-194.4s]: Brandy Robinson, who played a very central role in designing the capstone project and a lot of the broader learning path for this master's program.
+SPEAKER_01 [195.7s-197.7s]: Brandy has a background in academia.
+SPEAKER_01 [198.3s-208.6s]: She's an instructional design leader and a research methodologist who spent years mentoring doctoral students through proposal, dissertation, and defense.
+SPEAKER_01 [208.7s-214.5s]:  So Brandy knows firsthand what rigor, scope, academic credibility look like at the graduate level.
+SPEAKER_01 [215.1s-238.0s]: And beyond that, Brandy has also built courses for Microsoft Developer, Meta, Data Analytics, IBM, other STEM-focused programs using her knowledge of pedagogy and experience as a faculty member to craft technical programs that really deliver results for students and have the right credibility
+SPEAKER_01 [238.2s-240.1s]:  in market and in academia.
+SPEAKER_01 [241.9s-242.7s]: Brandy, welcome.
+SPEAKER_01 [242.8s-243.5s]: Thank you for joining us.
+SPEAKER_00 [244.4s-245.3s]: Hi, glad to be here.
+SPEAKER_00 [245.3s-249.6s]: I'm in New Orleans too, so fun city and fun time of year with Carnival.
+SPEAKER_01 [250.7s-251.4s]: Yeah, that's great.
+SPEAKER_01 [252.6s-258.1s]: All right, just a couple notes for folks at the outset here.
+SPEAKER_01 [258.2s-259.6s]:  As you saw when you signed up.
+SPEAKER_01 [259.6s-263.2s]: This is all about the capstone project specifically for the master's program.
+SPEAKER_01 [263.5s-272.0s]: If you have other questions about the master's program fire away, but just know I'll be prioritizing capstone content as advertised.
+SPEAKER_01 [272.7s-273.9s]:  I have a few questions.
+SPEAKER_01 [273.9s-278.1s]: You all pre-submitted some questions, so I've gone in and curated those.
+SPEAKER_01 [278.3s-284.2s]: And so I'll sort of drive the conversation based on the nature of the questions that were pre-submitted.
+SPEAKER_01 [284.6s-290.3s]: But please feel free to add questions in the comments as we go or in the chat.
+SPEAKER_01 [291.0s-296.7s]: I will be monitoring that and picking those up and doing my best to get to them.
+SPEAKER_01 [297.3s-303.3s]:  We will be recording this session, and we will send out a recording to all of you who attend and to all of you who pre registered.
+SPEAKER_01 [303.9s-314.5s]: So, keep an eye out for that also never hurts to follow our YouTube channel and our various socials because we will post recordings and clips there as well.
+SPEAKER_01 [315.6s-325.1s]:  So without further ado, I think I want to just start very broadly here, and Jared, I'll kick the opener to you.
+SPEAKER_01 [326.3s-339.4s]: Let's just, what is this capstone project in the sense of, before we get into like the mechanics of what it is and how it works, just in the broader context of the master's program in AI, what role does the capstone project play?
+SPEAKER_02 [340.2s-341.0s]:  Yeah, you bet.
+SPEAKER_02 [341.1s-346.8s]: So, um, first of all, congratulations everybody for enrolling in the master's degree.
+SPEAKER_02 [347.2s-355.7s]: It's a lot of work and hats off to all of you for being here for thinking about it for looking to advance your careers.
+SPEAKER_02 [355.7s-368.4s]:  As you know, and you know we sent a curriculum update last week, the core masters offering the split into three parts so you have core modules elective modules, and then the capstone.
+SPEAKER_02 [369.2s-372.0s]: The core modules are the required course load.
+SPEAKER_02 [372.0s-379.1s]:  The electives are the catalog of nanodegrees that you can take to meet the requisite credit hours.
+SPEAKER_02 [379.6s-390.9s]: And then the capstone is 30 ECTS credit offering that provides a comprehensive overview of everything that you've learned as part of the core module set.
+SPEAKER_02 [390.9s-392.2s]:  So Dr.
+SPEAKER_02 [392.2s-411.4s]: Brandy went in and evaluated the core module set, built specific new projects for each area of expertise, and then essentially built an aggregate project where you have to demonstrate your understanding of all of the above and then defend it against a mentor.
+SPEAKER_02 [411.7s-415.5s]: So that's the high level of what this is and how it fits into the program.
+SPEAKER_01 [417.9s-418.3s]:  Great.
+SPEAKER_01 [418.4s-419.1s]: Thanks, Karen.
+SPEAKER_01 [420.0s-422.5s]: So, Brandy, question for you.
+SPEAKER_01 [425.2s-434.5s]: How does it fit into the degree structure?
+SPEAKER_01 [434.5s-442.2s]: So I know from what I recall, we've got required courses, elective courses, and then the capstone.
+SPEAKER_01 [442.2s-447.4s]: Do you maybe just want to lay out for folks what that structure is and how it's broken down?
+SPEAKER_00 [448.2s-453.9s]:  Yeah, so the capstone is built from the required core courses that are a part of this program.
+SPEAKER_00 [454.0s-465.6s]: So it is really taking and bridging the learning that you did in the nano degrees and putting that learning into practice to actually create a product that you can have in your portfolio.
+SPEAKER_00 [466.5s-476.0s]: So that's kind of the idea, but the electives also do play a role in the creativity and the different ways that you can approach the projects.
+SPEAKER_00 [476.0s-494.1s]:  So, for instance, if you're looking at our autonomous self-driving car, and that's an area you're really interested in, and that elective kind of piques your interest, then you can actually choose within our pathway of the capstone to focus on that content area, because that's what you're interested in.
+SPEAKER_00 [494.0s-507.6s]:  So while it is really built off of those core courses, those elective courses give you kind of some really cool ideas of how you could approach the disciplines and things like our healthcare and nano degree, our data analytics.
+SPEAKER_00 [507.6s-513.1s]: And so you can kind of bring some of those electives in and choose to explore those as a part of the capstone.
+SPEAKER_01 [516.2s-517.3s]: Okay, so
+SPEAKER_01 [518.9s-524.1s]:  One thing that hopefully helps our audience is I'm realizing I don't actually know a ton about the capstone.
+SPEAKER_01 [524.2s-530.7s]: And so, as we're engaged in this conversation, I'm actually learning and having follow-up questions, which hopefully the audience is too.
+SPEAKER_01 [530.8s-539.1s]: So, I hope that that is going to trust that my instinct about what lines of inquiry to follow maps to what the audience is wondering here.
+SPEAKER_01 [539.1s-542.5s]: I want to start even more fundamentally.
+SPEAKER_01 [542.6s-544.1s]: So, we've got
+SPEAKER_01 [544.4s-549.0s]:  Like I said, a handful of required courses, mandatory programs to get through, a bunch of electives.
+SPEAKER_01 [550.1s-551.3s]: Is this chronological?
+SPEAKER_01 [551.4s-555.8s]: Like, do I hit a point in my journey where now I've unlocked the capstone and it's time to focus on that?
+SPEAKER_01 [556.1s-562.0s]: Or is the capstone something that is there in the background or in parallel that I'm working on?
+SPEAKER_01 [562.2s-563.8s]: Brandy, maybe you can take that one too.
+SPEAKER_00 [564.9s-572.5s]:  So I think to get the best experience out of the capstone, you would want to complete those core and those electives before you move into it.
+SPEAKER_00 [573.4s-583.2s]: Because again, the capstone, each of the six projects and the final synthesis allow you to kind of explore different areas of artificial intelligence and fields that you might want to go in.
+SPEAKER_00 [583.1s-602.4s]:  That said, you could start each project as you complete the nanodegree in parallel, but I think there's a lot of value to be had from exploring those electives and kind of piquing your interest in finding out different ways that you might want to approach or different areas that you might want to end up working in specifically.
+SPEAKER_00 [602.5s-611.0s]: So, it can be done in parallel, but I really think the best experience is having explored some of those elective areas and pulling that into the capstone.
+SPEAKER_00 [611.0s-618.6s]:  so that you know what you're interested in because doing seven projects on things that you're not interested in is not going to be an awesome experience.
+SPEAKER_01 [620.1s-622.9s]: Okay, you just hit on something that I am eager to get to.
+SPEAKER_01 [623.1s-624.0s]: Seven projects.
+SPEAKER_01 [624.2s-625.7s]: So we're talking about a capstone project.
+SPEAKER_01 [626.3s-627.7s]: Now we're talking about seven projects.
+SPEAKER_01 [628.2s-634.4s]: I gather there are additional projects as students complete nano degrees throughout the master's journey.
+SPEAKER_01 [636.0s-637.6s]: We're talking a lot of projects.
+SPEAKER_01 [637.6s-640.8s]: Can you just maybe break down
+SPEAKER_01 [641.8s-648.0s]:  how all of those projects add up, which are part of the capstone and what sort of component parts of the capstone are?
+SPEAKER_00 [648.9s-654.4s]: Yeah, so we have seven projects in the capstone and the first six map to the core nanodegrees.
+SPEAKER_00 [654.4s-669.0s]: So for instance, the first project is utilizing our AI and Python nanodegree and you're creating a deliverable that would be utilized in something like a job setting as a portfolio component based on what you learned in that nanodegree.
+SPEAKER_00 [669.0s-675.0s]:  Then as you move through those six projects, they all tie to one of our core courses.
+SPEAKER_00 [675.6s-693.0s]: And you'll notice there is an AI ethics course, but that has been woven throughout the six projects so that each time you're creating something, we're hoping you're thinking about the ethics, the data that's going into it, what it's doing, what it's taking in, and making sure that you are producing artifacts that have
+SPEAKER_00 [693.0s-695.8s]:  ethical considerations depending on the field.
+SPEAKER_00 [696.3s-707.1s]: So those six projects are kind of an opportunity to build a tangible object that is a full completion of that degree, of that nanodegree.
+SPEAKER_00 [707.2s-713.9s]: Then you get to the synthesis project, and that synthesis project is kind of the equivalent of that master's thesis.
+SPEAKER_00 [714.3s-717.8s]:  Like you would see in a traditional academic environment.
+SPEAKER_00 [717.9s-720.6s]: So that is much more open where you can explore it.
+SPEAKER_00 [721.0s-730.3s]: But those 6 projects before it really equip you with the skills, the ideas and getting used to the deliverables to complete that larger project.
+SPEAKER_00 [730.4s-735.7s]: The 6 projects are estimated about 100 hours each to complete because they're small components.
+SPEAKER_00 [735.7s-743.2s]:  And then as you move into that synthesis, you get full creativity to create something in any field that you might be interested in.
+SPEAKER_00 [743.3s-746.1s]: And you've had the practice from those six previous ones.
+SPEAKER_00 [746.2s-749.9s]: And that synthesis we're estimating is about 150 hours.
+SPEAKER_00 [750.5s-761.3s]: So being able to really walk through that in that progression where you've got those six projects that are building the scaffolding so that you can really be creative and explore in that final synthesis.
+SPEAKER_01 [763.2s-763.4s]: All right.
+SPEAKER_01 [765.5s-766.9s]:  Jared, you might be on mute.
+SPEAKER_02 [770.3s-770.6s]: Thank you.
+SPEAKER_02 [771.2s-774.0s]: I see some questions coming in on.
+SPEAKER_02 [774.4s-780.5s]:  how to think about these projects compared to the rest of the projects that are part of the nanodegree programs.
+SPEAKER_02 [781.1s-785.1s]: I wanna emphasize the capstone is 30% of the degree.
+SPEAKER_02 [785.8s-787.7s]: So it is a big chunk of the degree.
+SPEAKER_02 [787.9s-792.9s]: And because of that, these are additional projects that have to be completed to achieve the degree.
+SPEAKER_02 [793.1s-800.9s]: So it's seven projects overall, six of them are similar to the types of projects that you would experience in a nanodegree program.
+SPEAKER_02 [801.4s-804.1s]: And one of them, the last one is kind of an aggregation.
+SPEAKER_02 [804.1s-811.1s]:  of all of them where you have the opportunity to kind of demonstrate your interest and expertise in a given subject.
+SPEAKER_02 [812.6s-815.3s]: Very similar to a master's thesis, as Brandy mentioned.
+SPEAKER_01 [817.0s-830.7s]: So then is it fair to say, as I'm going through the required and elective nanodegree programs, all of them have their own projects that are fairly prescriptive in terms of the rubric and the type of work you're executing in order to pass.
+SPEAKER_01 [831.3s-833.5s]: Then I get to my master's capstone
+SPEAKER_01 [834.2s-858.4s]:  it is building on that past body of work, but it sounds like there is more flexibility in terms of the, the substance or the, um, the, what I focus on content wise, in terms of what I'm building in those projects for me to determine for myself, what application I want to develop, uh, models I want to work with, et cetera.
+SPEAKER_01 [858.5s-862.4s]: I'm kind of using terms vaguely, but, um, is that right?
+SPEAKER_00 [864.5s-870.2s]:  Yeah, so the capstone, the summative projects are really meant to be more open for you to explore your interests.
+SPEAKER_00 [870.3s-877.2s]: So for instance, if you're looking at our data analytics projects, you're picking the data set.
+SPEAKER_00 [877.3s-883.3s]: So you're also directing the data set, the area that you're pulling the data set in from, and you're completing that project.
+SPEAKER_00 [883.4s-891.1s]: So the learners really have some autonomy within those projects that's not as prescriptive as what you see in the nanodegree projects.
+SPEAKER_00 [891.0s-896.9s]:  to start exploring fields and exploring projects that they have their own interest in.
+SPEAKER_00 [897.8s-906.2s]: So it's meant to be more open, more exploratory, and to allow learners to really get a feel for post-degree, what are the areas that I'm interested in?
+SPEAKER_00 [906.3s-908.5s]: What are the projects that I want to invest in?
+SPEAKER_00 [908.9s-916.6s]: And what do I want my portfolio to look like as I move out of the master's degree and into looking for an active position in the field?
+SPEAKER_01 [918.2s-932.9s]:  I'm seeing a handful of questions still kind of looking for clarity around projects we can choose, like what students can choose about a given project, what is up to them, what is required, etc.
+SPEAKER_01 [933.3s-948.3s]:  We'll continue coming back to this topic because I think it's important, but before we get too far down this path, one thing I want to pose again to you, Brandy, is just when we think of a traditional master's program, the thesis is obviously a critical part of it.
+SPEAKER_01 [949.6s-963.1s]: How is Udacity's capstone similar to a traditional master's thesis, and how is it in many ways an evolution or advancement on the traditional master's?
+SPEAKER_00 [963.9s-972.4s]:  Yeah, so from the traditional master's perspective, as you're choosing a thesis, you've got some autonomy in that choice within your degree program as well, traditionally.
+SPEAKER_00 [972.4s-973.9s]: So you're picking an area of interest.
+SPEAKER_00 [974.5s-979.5s]: And in that thesis, you're really exploring that area of interest to become an expert in that field.
+SPEAKER_00 [980.0s-987.2s]: And so really, if you're defending your thesis, I feel like it's always got this adversarial language, but it's really not about that.
+SPEAKER_00 [987.2s-991.7s]: It's really about you are stepping into the role of the expert and owning
+SPEAKER_00 [991.6s-995.2s]:  the learning that you've completed throughout that master's degree program.
+SPEAKER_00 [995.3s-1002.1s]: So it's more of a look at the cool stuff that I know, look at how I can apply what I learned to something tangible in the real world.
+SPEAKER_00 [1002.9s-1006.8s]: And there is a traditional paper that pairs along with that.
+SPEAKER_00 [1006.8s-1021.9s]:  And sometimes in academia, we focus so heavily on the paper and the conceptual articulation of what a student did that we lose sight of what they actually completed in the tangible product that was a part of their thesis.
+SPEAKER_00 [1022.4s-1028.1s]: So your thesis paper is really you writing about what you did, not actually the tangible component.
+SPEAKER_00 [1028.2s-1033.9s]: And what I really like about our capstone is that the focus is primarily on the product,
+SPEAKER_00 [1033.9s-1044.1s]:  And the papers are reflecting on the iterations that happened, the challenges you explored, what's going on in the field, what's the problem that you're trying to solve with this.
+SPEAKER_00 [1044.6s-1053.0s]: And so it's kind of a really cool experience in that you get to identify a problem and something you're interested in, and then you're actually going to develop a solution.
+SPEAKER_00 [1053.0s-1068.3s]:  for that problem based on what you've learned in this nanodegree, which as you approach employment and as you just kind of reflect back on your master's, I think it's a really cool thing to say, like, I found this problem, I created a solution for it, and that was part of my degree.
+SPEAKER_00 [1068.4s-1074.1s]: And as I step out into the workforce, that really prepares you to
+SPEAKER_00 [1074.1s-1078.8s]:  to be able to articulate things, to have the soft skills, but also to show that you're a problem solver.
+SPEAKER_00 [1079.2s-1086.3s]: And that's what we need in this market, is people who are flexible, agile, and can think of solutions that are both ethical and helpful.
+SPEAKER_01 [1089.4s-1089.9s]: Yeah, that's fantastic.
+SPEAKER_01 [1089.9s-1091.4s]: Thank you.
+SPEAKER_01 [1091.5s-1093.4s]: I'm realizing of the three of us
+SPEAKER_01 [1094.1s-1095.2s]:  Well, Brandy's a doctor.
+SPEAKER_01 [1095.3s-1096.5s]: I know Jared has an MBA.
+SPEAKER_01 [1096.6s-1100.6s]: I don't have an advanced degree, so I am the one from the outside looking in here.
+SPEAKER_01 [1100.6s-1102.9s]: Jared, I don't know if you had to do a thesis for your MBA.
+SPEAKER_01 [1102.9s-1104.1s]: I don't know how those work either.
+SPEAKER_01 [1104.1s-1107.3s]: Maybe just build a little bit on what Brandy's saying here.
+SPEAKER_01 [1107.3s-1114.8s]: What is it you like about how our capstone is structured and what it offers students in their careers beyond?
+SPEAKER_02 [1115.9s-1138.2s]:  Yeah, I think I've said this before, but I think one of the real differentiators of the Udacity master's degree program is that you leave the program with a massive portfolio of hands on projects that you can speak to on your resume, you can share in a GitHub portfolio, you can demonstrate that you've done the real work.
+SPEAKER_02 [1138.2s-1140.0s]:  that employers are looking for.
+SPEAKER_02 [1140.2s-1147.5s]: And so, a nanodegree, when you finish a nanodegree program, you'll end with three to four projects on your resume.
+SPEAKER_02 [1148.0s-1153.4s]: When you finish the master's in AI, you'll have over a dozen projects on your resume.
+SPEAKER_02 [1153.7s-1161.2s]:  And so that type of real experience gives you a talking point in interviews.
+SPEAKER_02 [1161.5s-1163.7s]: It gives you a bullet point on your resume.
+SPEAKER_02 [1164.2s-1172.2s]: It is an unlock for folks who are now really looking for skills-based hiring instead of just a degree.
+SPEAKER_02 [1172.3s-1180.0s]: And so the combination of the Udacity skills plus the degree is really a door opener for a lot of our customers.
+SPEAKER_02 [1180.0s-1181.7s]: And we're really excited about that.
+SPEAKER_01 [1183.2s-1187.5s]:  seeing some questions coming in about acceptance criteria, we are getting there.
+SPEAKER_01 [1187.8s-1194.9s]: I will not forget if I do, you can, I don't know, you can hold me accountable on LinkedIn or something.
+SPEAKER_01 [1195.7s-1201.9s]: So I want to just keep coming back to the progression of the student experience in this nano degree or in this master's.
+SPEAKER_01 [1202.4s-1206.6s]: So you're taking the core nano degree programs that are part of the curriculum.
+SPEAKER_01 [1206.7s-1210.9s]: Those all have their own projects that you need to complete and pass
+SPEAKER_01 [1211.5s-1213.9s]:  to complete those nano degrees and get the credit.
+SPEAKER_01 [1214.2s-1216.1s]: Same for the electives.
+SPEAKER_01 [1216.1s-1232.3s]: Then you get to this stage that is the capstone, that is sort of like a conglomeration of seven additional unique projects that are sort of like a synthesis of everything you've learned in the master's to date.
+SPEAKER_01 [1233.0s-1240.3s]: And on top of those seven projects that you're doing, those seven capstone projects that you're doing, you are also writing a paper
+SPEAKER_01 [1240.7s-1243.5s]:  and presenting or defending that paper.
+SPEAKER_01 [1243.6s-1245.5s]: Am I still getting this, Brandy?
+SPEAKER_00 [1246.9s-1247.9s]: Yeah, absolutely.
+SPEAKER_00 [1247.9s-1255.4s]: And the idea of the papers and the defense is really articulating a soft employability skill.
+SPEAKER_00 [1255.4s-1261.6s]: So employers are looking for the ability to both communicate and writing what you've done and also verbally.
+SPEAKER_00 [1261.7s-1265.0s]: And so what's really unique about those components is even though
+SPEAKER_00 [1264.9s-1280.0s]:  Sometimes it feels a bit extra because you've created this, you know, tangible solution, but being able to communicate your process, your steps, your thinking, your iteration is really beneficial as you move into the field and you work in team settings or you work with managers.
+SPEAKER_00 [1280.1s-1291.5s]: And so, yeah, you've got that paper, but that paper really is about articulating your process, supporting your decisions of ethical use of different data and ethical use of AI in different fields.
+SPEAKER_00 [1291.5s-1302.1s]:  And then being able to defend is that verbal being able to really just explain everything that happened and owning the fact that you have completed these projects and these nanodegrees.
+SPEAKER_00 [1302.5s-1306.5s]: So you are now stepping into that role as an expert in that field as you defend.
+SPEAKER_01 [1308.3s-1311.3s]: Great, that's super helpful.
+SPEAKER_01 [1314.3s-1321.8s]:  Let's build on that and talk a little bit now we kind of got into the presenting the paper and the defense so I want to just unpack that a little more.
+SPEAKER_01 [1322.4s-1333.0s]: Can you talk through Brandy like step by step or just like paint for folks that are used to more traditional academia like you have I don't know a thesis advisor or something.
+SPEAKER_01 [1333.5s-1338.9s]: It's all very like physical room and chat with someone.
+SPEAKER_01 [1339.4s-1346.6s]:  Like, how does it work at Udacity when we talk about, let's start with how the individual capstone projects are evaluated.
+SPEAKER_01 [1346.8s-1353.9s]: And then let's get to how the, evaluated and defended, like practically speaking.
+SPEAKER_00 [1354.5s-1357.3s]:  Okay, I think I might not answer your question.
+SPEAKER_00 [1357.3s-1361.2s]: So just give me a follow up if I don't touch on everything that you just asked me.
+SPEAKER_00 [1362.1s-1370.2s]: The idea that is slightly different of how Udacity is approaching this thesis project is there's not an approval phase where you're getting approved.
+SPEAKER_00 [1370.7s-1383.3s]: And really, that's because we've set parameters in place within the project, that as long as you're meeting those parameters that are clearly articulated in the project instructions, as well as the project rubric that you can view,
+SPEAKER_00 [1383.3s-1386.1s]:  then that topic is considered acceptable.
+SPEAKER_00 [1386.2s-1393.0s]: So we have basic criteria that it has to meet, which lets you know that yes, I can pursue this as my synthesis project.
+SPEAKER_00 [1393.8s-1398.2s]: So we do have that, which is a little bit different than that traditional thesis involvement.
+SPEAKER_00 [1398.6s-1407.8s]:  As you move through that project, there are different things that you can utilize and get feedback from those initial six projects that will apply to what you're doing.
+SPEAKER_00 [1407.8s-1412.7s]: Just like if you're walking through that thesis project, you would be getting feedback at checkpoints.
+SPEAKER_00 [1412.7s-1417.7s]: So I kind of think of the six projects not as separate from the synthesis,
+SPEAKER_00 [1417.6s-1429.6s]:  But really, they're check-in points as the mentors are going through and evaluating your work, as you're seeing what the criteria is for each of those projects, and as you're seeing your success and your feedback of coming through that.
+SPEAKER_00 [1430.2s-1439.3s]: As you move through that process and approach that final synthesis, you really need to start thinking about how you could present this to a mentor in a live session.
+SPEAKER_00 [1439.2s-1446.7s]:  and how you could articulate the steps that you took to create your solution, why your solution is needed in this area.
+SPEAKER_00 [1446.7s-1452.9s]: And you get a very solid 15 minutes with a mentor to really walk them through the entire process.
+SPEAKER_00 [1452.9s-1454.2s]: Here's how I got my idea.
+SPEAKER_00 [1454.2s-1459.4s]: Here's the research that I did on this problem and why we need to solve it.
+SPEAKER_00 [1459.8s-1461.9s]: Here's the solution that I created.
+SPEAKER_00 [1462.0s-1463.7s]: Here's how it works.
+SPEAKER_00 [1463.7s-1465.3s]: And then here's how it is ethical.
+SPEAKER_00 [1465.6s-1469.2s]: So you would have that 15 minutes of time to really dedicate to that.
+SPEAKER_00 [1469.2s-1480.9s]:  The remaining 15 minutes is the traditional defense field in academia, where the mentor is actually going to ask you questions based on your project and the field that you're exploring.
+SPEAKER_00 [1481.5s-1486.0s]: So as you're walking through that second 15 minutes, that's the traditional defense.
+SPEAKER_00 [1486.3s-1492.1s]: I do want to just, again, I'm an academic, so the defense is not about adversarialness.
+SPEAKER_00 [1492.5s-1498.3s]: It's really the mentor is trying to explore what you did and better understand your expertise in this area.
+SPEAKER_00 [1498.3s-1501.3s]:  So there'll be follow-up questions potentially about iteration.
+SPEAKER_00 [1501.7s-1507.7s]: There might be follow-up questions about different parameters of your solution and will it work in these different scenarios.
+SPEAKER_00 [1508.2s-1520.1s]: And so the mentor is really stepping into that key committee role in that second 15 minutes to be able to work with the learner and really ask you and have you articulate more and elaborate so that you're owning that expertise.
+SPEAKER_01 [1522.2s-1523.4s]: That does help quite a bit.
+SPEAKER_01 [1523.5s-1524.8s]: I think
+SPEAKER_01 [1525.0s-1540.1s]:  Casey in the chat, I'm calling you out, Casey, I think presented a good sort of step-by-step, very simple breakdown of what I would say is my understanding of the traditional master's thesis, which is, oh, I had it in my chat, and now people are chatting.
+SPEAKER_01 [1540.1s-1540.6s]: I can't find it.
+SPEAKER_01 [1540.7s-1551.6s]: Okay, you have an idea, you get it approved, you do the research, you do the application or whatever the end product of the research is, write a paper, and then you defend it.
+SPEAKER_01 [1552.0s-1558.5s]:  I think what I'm hearing is our master's capstone is similar, but there's not an explicit approval process.
+SPEAKER_01 [1558.8s-1564.9s]: You are given very explicit guidelines and trusted to go and adhere to those guidelines.
+SPEAKER_01 [1566.2s-1570.1s]: But otherwise, it's similar where you have an idea.
+SPEAKER_01 [1570.1s-1581.1s]: You're given, so instead of have an idea and get it approved, I'd say you're given explicit guidelines for what the capstone and the paper need to entail.
+SPEAKER_01 [1581.8s-1588.2s]:  and then you go and execute against that, draft the paper, and present and defend it to a mentor.
+SPEAKER_01 [1588.3s-1588.8s]: Is that right?
+SPEAKER_00 [1589.6s-1591.5s]: Yeah, that's correct.
+SPEAKER_01 [1591.5s-1593.7s]: Okay, great.
+SPEAKER_01 [1593.8s-1598.9s]: And a question about, let's get into a little bit like how this is evaluated and graded.
+SPEAKER_01 [1599.4s-1604.6s]: So there are seven projects that constitute the capstone.
+SPEAKER_01 [1605.5s-1607.8s]: Jared, maybe you can speak to this a little structurally.
+SPEAKER_01 [1608.5s-1609.2s]: How
+SPEAKER_01 [1609.7s-1613.8s]:  Are individual projects evaluated on their own merit?
+SPEAKER_01 [1613.9s-1615.8s]: Are they looked at in aggregate?
+SPEAKER_01 [1616.3s-1626.2s]: And then how, as someone progresses through the capstone, the different pieces of the capstone project, are they, yeah, how are they evaluated individually and holistically?
+SPEAKER_02 [1627.1s-1631.0s]:  Yeah, so each individual project is evaluated on its own.
+SPEAKER_02 [1631.3s-1643.7s]: And then at the end of it, based on how you perform across each of those individual projects, you'll receive essentially a letter grade based on the average across those projects.
+SPEAKER_02 [1644.2s-1651.6s]: And so the way that grading works with projects is your first, if the project passes upon first submission,
+SPEAKER_02 [1651.6s-1657.1s]:  It's an A if it passes upon second submission B, third submission C, etc.
+SPEAKER_02 [1657.6s-1659.4s]: And so that's how the grading structure works.
+SPEAKER_01 [1662.0s-1666.8s]: Okay, and then the specifically the evaluation of the paper.
+SPEAKER_01 [1669.4s-1671.8s]: How or even the.
+SPEAKER_01 [1673.3s-1681.0s]:  like maybe just walk me through in a really basic level, like let's someone who's never used Udacity before and doesn't even know like how our projects are graded.
+SPEAKER_01 [1681.5s-1690.7s]: Can we just walk through like in some level of detail how someone entering this master's will know like how do I actually submit a project?
+SPEAKER_01 [1690.8s-1691.7s]: Who's reviewing it?
+SPEAKER_01 [1692.2s-1693.5s]: Against what criteria?
+SPEAKER_01 [1694.7s-1695.8s]: Can we speak to that a little more?
+SPEAKER_02 [1696.5s-1704.0s]:  Yeah, so every, every project is graded by a Udacity mentor.
+SPEAKER_02 [1704.5s-1716.0s]: So we have over 1000 industry experts on staff that are reviewing all of your code, all the ideas in the project and making an assessment on whether it meets.
+SPEAKER_02 [1716.0s-1721.0s]:  the specific rubric and grading criteria of that specific project.
+SPEAKER_02 [1721.0s-1722.9s]: So each project is unique in that way.
+SPEAKER_02 [1723.8s-1727.8s]: We have outlined how all of this works in the student guide.
+SPEAKER_02 [1728.0s-1737.7s]: So if you want to run into the details, you can open up the student guide, which we sent out in a PDF last week that will have a little bit more details.
+SPEAKER_02 [1737.8s-1742.6s]: But that's the core of how grading works and who's grading them.
+SPEAKER_01 [1742.6s-1743.5s]: Great.
+SPEAKER_01 [1744.4s-1744.5s]: Helpful.
+SPEAKER_01 [1745.0s-1751.4s]:  And then, Brandy, you spoke to it already a little bit, but let's just reiterate the actual presentation of the paper.
+SPEAKER_01 [1751.5s-1760.8s]: It's like a 30 minute session with the mentor, half of which is presenting the paper, half of which is responding to inquiries from the mentor.
+SPEAKER_01 [1760.9s-1762.0s]: Is that a fair summary?
+SPEAKER_00 [1762.8s-1769.0s]:  Yes, so it's a 15 minutes and you've submitted your project, the mentors scored your project, your paper, et cetera.
+SPEAKER_00 [1769.4s-1771.7s]: So they're familiar with the work that you're doing.
+SPEAKER_00 [1771.9s-1779.5s]: So you're not kind of getting a cold mentor that hasn't seen your project and had time to really consider what you're exploring.
+SPEAKER_00 [1780.0s-1785.1s]: Then you'll schedule a meeting with that mentor for 30 minutes through the Calendly link.
+SPEAKER_00 [1785.1s-1792.6s]: You'll have 15 minutes to present and about 15 minutes for our Q&A or what would traditionally be called a defense.
+SPEAKER_01 [1795.2s-1796.3s]:  Great, thank you.
+SPEAKER_01 [1797.9s-1811.3s]: In terms of the substance of the capstones, can we, I see some questions about like, can I take an example from real life, something I'm working on, a business I want to start, is that all fair game for capstones?
+SPEAKER_01 [1811.3s-1824.9s]: Like, how explicit are we about what people are working on and how much is up to the individual master's student to bring their own context for those projects?
+SPEAKER_00 [1825.7s-1827.1s]:  So it's really open.
+SPEAKER_00 [1827.2s-1831.9s]: So for instance, in the first project with Python, we're asking you to work with a data set.
+SPEAKER_00 [1832.4s-1840.7s]: You can definitely pull in a data set from Kaggle or from the real world on things that you're working in, but we've set parameters of you need 200 data points.
+SPEAKER_00 [1840.7s-1844.3s]:  You need so many data points that are numeric versus non-numeric.
+SPEAKER_00 [1844.7s-1851.7s]: So as long as you're able to get that data set in that format, you can definitely explore any field, what you're currently doing in your job.
+SPEAKER_00 [1851.8s-1858.1s]: Just have to make sure that those clear parameters that are articulated in the instructions and the overview are met.
+SPEAKER_00 [1858.1s-1865.3s]: So having access to 200 data points is pretty easy to do in a lot of different fields that you might be exploring or be interested in.
+SPEAKER_00 [1865.4s-1869.5s]: So those are the types of parameters that we're giving you, and that's the
+SPEAKER_00 [1870.1s-1876.8s]:  level of openness, because at the master's level, it's really about you exploring and applying what you've done.
+SPEAKER_00 [1876.9s-1881.8s]: And it's not about someone prescriptively giving you step-by-step instructions.
+SPEAKER_00 [1882.3s-1890.9s]: So the openness of this is very intentional to allow you to explore that higher level of learning that would be the rigor required for a master's degree.
+SPEAKER_01 [1892.8s-1899.2s]: I think that begs the question that some people have been asking around IP of the master's.
+SPEAKER_01 [1899.8s-1911.9s]:  First and foremost, I'll say when we talk IP, my instinct is to check with the relevant legal stakeholders at Udacity and at Wolf to make sure I am not misrepresenting anything.
+SPEAKER_01 [1912.2s-1916.1s]:  But I will say that it is your master's program.
+SPEAKER_01 [1916.2s-1917.5s]: It is your master's thesis.
+SPEAKER_01 [1918.1s-1924.0s]: The substance and content included therein is your own intellectual property.
+SPEAKER_01 [1924.8s-1934.2s]: And I don't think Udacity or Wolf would assume any ownership or, yeah, any ownership of that.
+SPEAKER_01 [1934.4s-1937.8s]: But obviously, I know that people probably want a much more
+SPEAKER_01 [1938.4s-1944.8s]:  substantive, robust, and documented answer before they commit their IP to a master's thesis.
+SPEAKER_01 [1945.2s-1951.5s]: So we'll do our best to follow up with that and make sure it's included in all relevant capstone documentation.
+SPEAKER_01 [1951.6s-1957.1s]:  Speaking of documentation, I saw someone just ask, is there a step-by-step articulation of this?
+SPEAKER_01 [1957.9s-1959.8s]: Jared, you can probably speak to what is already out there.
+SPEAKER_01 [1959.8s-1960.8s]: I know there's a student guide.
+SPEAKER_01 [1960.9s-1965.5s]: I know we've been working on some specific capstone documentation.
+SPEAKER_01 [1965.6s-1967.5s]: Is it all already out there?
+SPEAKER_01 [1967.6s-1968.6s]: Is it forthcoming?
+SPEAKER_02 [1969.1s-1975.9s]:  Yeah, so we emailed out to all enrolled students last Thursday, a student guide.
+SPEAKER_02 [1976.0s-1977.2s]: It's about 15 pages.
+SPEAKER_02 [1977.2s-1982.5s]: It includes all of the details about grading, all of the details about the capstone.
+SPEAKER_02 [1982.6s-1988.5s]: So a full summary of all of the different parts of the capstone, how it's evaluated, et cetera.
+SPEAKER_02 [1989.0s-1994.2s]: If you didn't see the email or you missed it, I believe we also posted it in the community.
+SPEAKER_02 [1994.7s-1998.3s]: I'll have to check with the community team, but it should be there as well.
+SPEAKER_02 [1998.3s-2001.1s]:  If you still don't have it, just let us know.
+SPEAKER_02 [2001.6s-2003.0s]: We will get it off to you.
+SPEAKER_02 [2003.2s-2004.4s]: It's live on our website.
+SPEAKER_02 [2004.5s-2012.1s]: I actually think that if you give me a minute, I can probably post the link here in the chat for any folks that want to access it.
+SPEAKER_02 [2013.1s-2019.8s]: So I can take a moment to do that if you all forgive me for looking at my messages to get the link.
+SPEAKER_01 [2022.3s-2022.6s]:  Great.
+SPEAKER_01 [2023.6s-2027.7s]: I'm just going back through some of the questions that have been coming in while we've been on.
+SPEAKER_01 [2028.6s-2031.1s]: We spoke to this a little bit, but just to be explicit about it.
+SPEAKER_01 [2031.2s-2033.3s]: Is there a capstone advisor, Brandy?
+SPEAKER_00 [2035.8s-2041.7s]: There is not a traditional capstone advisor for that step by step submission of your projects.
+SPEAKER_00 [2041.8s-2051.5s]:  is kind of acting, and we might have different mentors interacting with you at different points in those projects, especially based on the mentor's expertise in the field that they're in.
+SPEAKER_00 [2051.6s-2065.7s]: So you're not having that guided touch as much, but those six projects should act as a touchstone because each of the skills that you need to complete that synthesis project are very clearly articulated in those previous projects.
+SPEAKER_00 [2065.6s-2073.8s]:  So the seventh one is where you maintain a mentor that both grades your project, gives you feedback on that graded project, and then they will do the defense.
+SPEAKER_00 [2073.8s-2077.7s]: So that's where the stability happens is in that synthesis project.
+SPEAKER_01 [2079.1s-2079.5s]: Understood.
+SPEAKER_01 [2080.0s-2087.2s]: And Jared, for folks that might be used to or anchored in the idea that, oh, I need a
+SPEAKER_01 [2089.6s-2098.0s]:  mentor or a advisor, I think is the traditional term, a master's advisor throughout the full progression of my journey in the program.
+SPEAKER_01 [2098.8s-2108.9s]: Maybe just speak to how we approach the comparable level of support for students throughout their journey in the master's program and into the capstone.
+SPEAKER_02 [2110.6s-2118.3s]:  Yeah, so, with the master's degree, you have access to our mentors regularly.
+SPEAKER_02 [2119.4s-2124.6s]: They're engaged in the community so if you're active in the community you can always access them asynchronously there.
+SPEAKER_02 [2125.2s-2129.3s]: We have every other week we run.
+SPEAKER_02 [2129.7s-2134.0s]:  Office hours with our mentors for each specific nano degree program.
+SPEAKER_02 [2134.4s-2135.8s]: That's part of the master's degree.
+SPEAKER_02 [2136.2s-2138.2s]: And so you can always go into there.
+SPEAKER_02 [2138.9s-2147.8s]: Um, in order to, uh, get your questions answered, get the feedback you need, um, get informal feedback ahead of any project submission.
+SPEAKER_02 [2148.6s-2151.5s]: Um, so that, you know, you're on the right track or not.
+SPEAKER_02 [2151.5s-2160.7s]:  And then they also review all of the project submissions, and that happens asynchronously and they'll provide documented feedback as part of that review.
+SPEAKER_01 [2162.6s-2164.0s]: Thanks.
+SPEAKER_01 [2164.0s-2166.7s]: See some back and forth in the chat about.
+SPEAKER_01 [2167.4s-2168.1s]:  the grading.
+SPEAKER_01 [2168.5s-2183.0s]: And one thing I want to just come back to and reiterate is something exceptional about the Udacity programs in general and the master's program is your projects are reviewed by humans.
+SPEAKER_01 [2183.5s-2193.4s]: So you get a specific project rubric, you execute against the project, you submit it, and there is an experienced mentor who
+SPEAKER_01 [2193.5s-2201.0s]:  when experienced, I say has experience in that, not just in that field, but also with the content of the Nanodegree Program or course that you've been taking.
+SPEAKER_01 [2201.3s-2206.0s]: So they understand completely the operating context and the technical context.
+SPEAKER_01 [2206.8s-2216.1s]: And they're evaluating your project against the rubric, but they are also looking at the work that you've submitted.
+SPEAKER_01 [2216.2s-2218.9s]: So if there's a minor code error that is
+SPEAKER_01 [2219.2s-2230.0s]:  ancillary to the core skill you're demonstrating in the project and you've still demonstrated that skill effectively, that mentor has the ability to still pass you on the project.
+SPEAKER_01 [2230.5s-2240.0s]: So this is not something that is as black and white as, oh, I got one error and now my project is rejected once and my grade is docked from an A to a B.
+SPEAKER_01 [2240.4s-2245.6s]:  The reason we have humans in the loop here is so they can exercise that level of judgment.
+SPEAKER_01 [2245.8s-2254.5s]: And what is most important is executing the project by meeting the criteria spelled out in the different rubrics for the different projects.
+SPEAKER_01 [2254.6s-2257.1s]: So hopefully that clears things up a little bit.
+SPEAKER_01 [2258.2s-2263.6s]: But I understand as there's further uncertainty, you know, please reach out to our team and pose those questions.
+SPEAKER_01 [2266.8s-2269.3s]: Will capstone projects be public?
+SPEAKER_01 [2269.9s-2272.5s]:  Brandy, Jared, do you know the answer to that?
+SPEAKER_01 [2272.6s-2276.1s]: I guess part of it depends on how we define public.
+SPEAKER_02 [2276.1s-2280.7s]: Yeah, if you mean public in terms of are they available now, the answer is yes.
+SPEAKER_02 [2281.0s-2287.4s]: You can go into the learning plan on udacity.com on the student dashboard.
+SPEAKER_02 [2287.8s-2291.0s]: And if you scroll to the bottom of the learning plan, you'll see the capstone there.
+SPEAKER_02 [2291.4s-2295.7s]: You can open it up and review every single project on your own right now.
+SPEAKER_02 [2295.7s-2299.6s]:  And so that is all available all the details of the capstone are there.
+SPEAKER_02 [2300.0s-2308.6s]: You can start it if you want, although as Brandy mentioned, we strongly encourage students to finish the core module and the electives before they start.
+SPEAKER_02 [2309.5s-2314.1s]: If you mean will the projects be public after you build them.
+SPEAKER_02 [2314.1s-2316.0s]:  The answer to that is no.
+SPEAKER_02 [2316.0s-2317.9s]: These are your capstones.
+SPEAKER_02 [2317.9s-2319.1s]: These are your projects.
+SPEAKER_02 [2319.5s-2329.9s]: We will not be sharing your work, certainly without your permission, but I don't think that there's any plan for us to share or advertise the work that students are doing in the capstone.
+SPEAKER_01 [2333.3s-2333.8s]: Interesting one.
+SPEAKER_01 [2333.9s-2338.5s]: Can you accept work from a team that consists of more than one student?
+SPEAKER_02 [2340.6s-2348.4s]:  No, as part of our honor code, you must complete a master's on your own.
+SPEAKER_02 [2349.1s-2354.5s]: And so if you are working with others to do the work that goes against the Udacity honor code.
+SPEAKER_01 [2356.6s-2357.1s]: Very clear.
+SPEAKER_01 [2357.6s-2358.0s]: Thank you.
+SPEAKER_01 [2359.2s-2365.1s]: Now I want to ask a couple questions, or just one question probably about
+SPEAKER_01 [2365.5s-2366.6s]:  Well, sorry, maybe two parts.
+SPEAKER_01 [2366.7s-2372.4s]: Plagiarism is the thing that comes to my mind and how we vet for that and what that looks like.
+SPEAKER_01 [2372.4s-2385.8s]: And I think a part of that conversation is how we are vetting for people who just are, what is our approach to using AI and AI LLM tools to facilitate this?
+SPEAKER_01 [2385.9s-2387.6s]: So let me split that out first.
+SPEAKER_01 [2388.4s-2395.0s]: Maybe Jared, can you speak to how plagiarism is vetted and
+SPEAKER_01 [2395.6s-2401.2s]:  managed at Udacity generally and if it's any different in the master's program.
+SPEAKER_02 [2402.3s-2406.0s]:  It's not different for the master's program than for Udacity overall.
+SPEAKER_02 [2406.0s-2413.1s]: So our mentor team has a handful of tools that they use to assess project submissions for plagiarism.
+SPEAKER_02 [2413.3s-2420.0s]: And if there is evidence of plagiarism or if there is concern of plagiarism, we will flag it.
+SPEAKER_02 [2420.1s-2421.0s]: We will have a review.
+SPEAKER_02 [2421.2s-2424.7s]: Each plagiarism case is handled on a case-by-case basis.
+SPEAKER_02 [2425.3s-2430.3s]: And the student is notified if that is under review.
+SPEAKER_02 [2430.3s-2438.3s]:  Again, all of that information is available if you read through our honor code and you can get a little bit more details on how we treat plagiarism.
+SPEAKER_02 [2438.3s-2439.9s]: Thanks.
+SPEAKER_01 [2439.9s-2454.2s]: Brandy, now I'll turn to the, I don't want to conflate AI and plagiarism, they're not the same thing, but obviously I'm sure a lot of people will want to and will try to use AI tools to facilitate their learning in the master's program.
+SPEAKER_01 [2455.6s-2456.7s]: What's our stance on that?
+SPEAKER_01 [2456.9s-2460.1s]: Are there things to watch out for as students are doing that?
+SPEAKER_00 [2461.3s-2466.8s]:  So we want it to be your own individual property, so your intellectual property.
+SPEAKER_00 [2466.8s-2474.5s]: So where the line happens really in academia too, is when you're basically not executing your own work.
+SPEAKER_00 [2474.5s-2482.9s]: So the idea should be yours, the execution should be yours, the reflection and the paper should be written by you because those are all articulations of you.
+SPEAKER_00 [2483.4s-2489.8s]: But if along the way you're using, for instance, AI and Python to run some tests on a dataset to do a visualization,
+SPEAKER_00 [2489.8s-2491.4s]:  that's perfectly acceptable.
+SPEAKER_00 [2491.5s-2495.3s]: So to execute something, that's an AI usage that's okay.
+SPEAKER_00 [2495.7s-2501.3s]: But as you look at defense, paper writing, and some of those key ideas, that's all supposed to be you.
+SPEAKER_00 [2502.1s-2511.2s]: And really, when you get to the defense, the questions that are asked, if you're not able to really articulate the iterations and the things that you did,
+SPEAKER_00 [2511.2s-2513.5s]:  then you're not going to pass that defense.
+SPEAKER_00 [2513.6s-2519.4s]: So it's very rigorous in the same way as academia, where we're looking for your thought, your thinking.
+SPEAKER_00 [2519.9s-2526.5s]: But if you're using AI to execute your thought and your thinking, that's where the line kind of occurs.
+SPEAKER_01 [2527.7s-2530.4s]:  A question just came in that I really like.
+SPEAKER_01 [2530.5s-2533.6s]: We spoke to it a little bit, but I want to revisit.
+SPEAKER_01 [2534.0s-2542.0s]: Can students base the topic of the capstone projects on something from their current work context?
+SPEAKER_00 [2546.2s-2552.2s]: So as long as it's not been something that maybe you've already submitted somewhere in the nanodegree, yes.
+SPEAKER_00 [2552.2s-2555.9s]: I mean, that whole idea is that this is hands-on, practical work.
+SPEAKER_00 [2556.2s-2558.1s]:  That's why we wrote it the way that we did.
+SPEAKER_00 [2558.4s-2568.7s]: And that would be my perfect world, would be that you are actively doing something that affects your job, your workplace, or the future job that you want to have.
+SPEAKER_00 [2568.8s-2582.3s]: So from my perspective, that's exactly why we built the capstone the way that we did, is so that you can pull in your experience, you can pull in what you're doing in your current workplace, or you can project onto what you want your future work to look like.
+SPEAKER_00 [2582.9s-2584.9s]: So that would be the ideal situation.
+SPEAKER_02 [2585.7s-2607.7s]:  I will add that if you decide to complete a capstone and focus on something that has to do with your current job or your current work, you should talk to your manager or your jobs legal team about what kind of data you can include, because that data will be reviewed by a mentor.
+SPEAKER_02 [2607.7s-2612.4s]:  who likely is not under NDA with your company.
+SPEAKER_02 [2612.4s-2618.9s]: And so, just keep confidentiality top of mind if that's the direction that you decide to go.
+SPEAKER_01 [2621.1s-2621.5s]: 100%.
+SPEAKER_01 [2623.1s-2627.0s]: Definitely, everyone, do that check if you want to use any material
+SPEAKER_01 [2627.2s-2628.5s]:  from your existing workplace.
+SPEAKER_01 [2630.3s-2642.1s]: Shameless plug for the fact that the master's program curriculum does include courses in ethical AI, how to use data, how to manage data, how to reduce bias, how to think about all these things ethically.
+SPEAKER_01 [2642.5s-2652.2s]: That won't answer your work-specific questions, but it will hopefully give you the right framework and frame of mind for
+SPEAKER_01 [2652.6s-2655.8s]:  what things to be concerned about, what questions to ask.
+SPEAKER_01 [2656.7s-2661.7s]: So maybe take those courses earlier in the process so you have that foundation.
+SPEAKER_01 [2662.4s-2666.1s]: All right, I think we've got a few more minutes left.
+SPEAKER_01 [2666.2s-2678.1s]: I see some more questions coming in, but I think I want to revisit and unpack the what happens next sort of side of the capstone project, meaning
+SPEAKER_01 [2678.9s-2684.3s]:  You can and should put the master's in AI degree on your resume.
+SPEAKER_01 [2685.2s-2687.0s]: That is a very important credential.
+SPEAKER_01 [2687.9s-2704.7s]: But the thing that's different for the Udacity program that maybe not a lot of students interested in traditional master's programs have been exposed to is how do you represent this body of work of seven projects in the capstone plus
+SPEAKER_01 [2705.9s-2710.7s]:  dozens of additional projects completed through the other nanodegrees in the program.
+SPEAKER_01 [2712.3s-2717.0s]: How do you represent this and market yourself as having these skills?
+SPEAKER_01 [2717.0s-2719.6s]: Jared, maybe you can take a shot at that.
+SPEAKER_02 [2721.1s-2724.4s]:  Yeah, I think there's a couple of ways of thinking about it.
+SPEAKER_02 [2724.6s-2729.1s]: So the first and foremost is you'll have a GitHub repository.
+SPEAKER_02 [2729.3s-2732.9s]: So you will have a portfolio of projects that you can share with an employer.
+SPEAKER_02 [2733.0s-2743.7s]: And if you're looking to get a job in tech, you can literally share your GitHub link with that employer and say, hey, this is all the stuff that I've done and it will all be there.
+SPEAKER_02 [2744.0s-2747.2s]: I think that's really extraordinary.
+SPEAKER_02 [2747.2s-2748.9s]:  Second is when it comes to your resume.
+SPEAKER_02 [2749.0s-2764.6s]: So this isn't a dissertation on how to write a resume, but the way I think about a resume is each bullet point on that resume matters and communicates some level of value add that you gave to a business or project.
+SPEAKER_02 [2764.7s-2766.8s]: And in this case, you will have
+SPEAKER_02 [2766.8s-2777.5s]:  multiple resume bullets that you can add with that demonstrate how you solve the problem, what you did, what the outcome was, and just make your resume a lot stronger.
+SPEAKER_02 [2777.5s-2783.0s]: And then lastly, you know, every Udacity nanodegree program.
+SPEAKER_02 [2783.0s-2798.5s]:  delivers you a handful or multiple handfuls, frankly, of technical skills that you can also include, whether it's on your resume, whether it's on your LinkedIn profile, and those skills are what employers are seeking.
+SPEAKER_02 [2798.9s-2802.3s]: And so when you go and have those conversations with employers,
+SPEAKER_02 [2802.3s-2804.0s]:  You'll say, hey, I have these skills.
+SPEAKER_02 [2804.5s-2812.9s]: Here's a project that I can speak to where I demonstrated that skill, where I demonstrated problem solving, where I demonstrated communication and defended a thesis.
+SPEAKER_02 [2813.7s-2821.4s]: Here's my GitHub portfolio that has all the projects if you want to go in there and kind of understand how I think about coding and how I think about modeling.
+SPEAKER_02 [2821.9s-2825.3s]: And so you really leave with a
+SPEAKER_02 [2825.4s-2838.2s]:  massive portfolio of assets that you can take with you to find a new job, to get promoted in your current job, to go start a PhD program if that's what you want to do.
+SPEAKER_02 [2838.8s-2842.1s]: It really helps unlock whatever you're looking for in your career.
+SPEAKER_01 [2845.4s-2846.5s]: I'll be honest to the audience.
+SPEAKER_01 [2846.6s-2852.1s]: It's not entirely unintentional that for this session, Jared's background includes multiple degrees.
+SPEAKER_01 [2853.3s-2854.7s]: What we at Udacity
+SPEAKER_01 [2855.0s-2861.8s]:  believe in is that you develop skills you can see and other people can see.
+SPEAKER_01 [2862.5s-2871.6s]: Historically, for something like a master's or a bachelor's program, the seeing the proof is in the literal certificate, which is nice and valuable.
+SPEAKER_01 [2871.7s-2872.9s]: I won't pretend it's not.
+SPEAKER_01 [2873.9s-2880.8s]: But with this master's program, the skills you can see and others can see live in the actual demonstrable project.
+SPEAKER_01 [2881.1s-2882.5s]: There are applications you build.
+SPEAKER_01 [2882.5s-2883.9s]: There are data sets you build.
+SPEAKER_01 [2884.3s-2887.0s]:  There are GitHub repos that you are building.
+SPEAKER_01 [2887.3s-2897.5s]: There is a literal portfolio of work that you are growing and can hand to someone and point to and say, this is what I build in my masters.
+SPEAKER_01 [2898.0s-2902.1s]: And so I think that's really meaningful here.
+SPEAKER_01 [2903.4s-2912.2s]:  Brandy, from your perspective, and maybe we'll sort of lead out with this, you obviously were very heavily involved in building the master's program and designing the capstone.
+SPEAKER_01 [2912.9s-2923.3s]: You've worked with a lot of students who are in master's and doctoral programs, I think as an advisor, but also as hearing them defend their different theses.
+SPEAKER_01 [2924.1s-2931.9s]: What is it, again, about the Udacity master's that you believe stands out and
+SPEAKER_01 [2932.0s-2936.0s]:  It's valuable to students over and above what a lot of traditional master's programs do.
+SPEAKER_00 [2937.4s-2940.0s]: So for me, it is skills based.
+SPEAKER_00 [2940.0s-2947.9s]: So Udacity highly values the students leaving with tangible products that demonstrate hands on skills and sometimes.
+SPEAKER_00 [2948.3s-2957.4s]:  In academia, when we're defending, it becomes very theoretical, and you haven't actually executed something, but you've got an idea of what might work.
+SPEAKER_00 [2957.9s-2965.4s]: What really stands out here is the execution component, where you're not only saying, I have this idea, I think it's going to work.
+SPEAKER_00 [2965.5s-2969.5s]: Here are five other people that I can cite in my paper that say it's going to work.
+SPEAKER_00 [2969.5s-2972.5s]:  you're actually going in and doing it.
+SPEAKER_00 [2972.6s-2975.1s]: You're recording, oh, it didn't work this time.
+SPEAKER_00 [2975.1s-2975.9s]: Why didn't it work?
+SPEAKER_00 [2976.0s-2990.2s]: Well, I had a line of code that I had to change, and you're documenting all of those iterations, which are really reinforcing that skills-based idea, so that when you leave, you have an articulated, tangible group of skills that you can show.
+SPEAKER_00 [2990.2s-2992.1s]: That's really the differences.
+SPEAKER_00 [2992.2s-2995.4s]: In the traditional thesis world, you've got this paper that's great,
+SPEAKER_00 [2995.4s-3000.9s]:  And it talks about it, but you don't always have the product that you can then show someone and demonstrate.
+SPEAKER_00 [3001.2s-3007.3s]: I created a solution for a problem that's really happening in the world today, and it's actually working.
+SPEAKER_00 [3007.3s-3012.0s]: And so that's really the difference for me is that it's skills, but it's also solution-based.
+SPEAKER_00 [3012.0s-3016.0s]: Seeing students own their expertise in a field, researching.
+SPEAKER_00 [3016.0s-3018.2s]: So if you're, like, I saw this in the chat.
+SPEAKER_00 [3018.2s-3019.9s]:  How do I know that a problem is in the field?
+SPEAKER_00 [3020.0s-3020.9s]: Well, that's the idea.
+SPEAKER_00 [3020.9s-3022.3s]: You're going to go out and find one.
+SPEAKER_00 [3022.5s-3036.2s]: So reading literature, reading things to find a real-world problem to solve is something that's unique to this Udacity platform, even compared to work that I've done across with Meta, IBM, and things like that on credit hour courses.
+SPEAKER_00 [3036.7s-3045.5s]: The solution idea, the ability to say, I actually solved something, and I have the skills required to do it again is the really unique part.
+SPEAKER_01 [3047.7s-3048.0s]: Awesome.
+SPEAKER_01 [3048.7s-3049.2s]:  No notes.
+SPEAKER_01 [3050.2s-3061.5s]: Jared, let's maybe close here by, can you just tell folks still on, if they're enrolled in the master's program and have more questions about the capstone, where do they go?
+SPEAKER_01 [3061.8s-3068.4s]: If they're not enrolled in the master's program, how can they get there?
+SPEAKER_02 [3069.1s-3069.9s]:  Yeah, you bet.
+SPEAKER_02 [3070.0s-3074.6s]: So if you have any more questions, you know, one of the best places to start is our community.
+SPEAKER_02 [3075.3s-3077.6s]: You know, we've seen some really great engagement there.
+SPEAKER_02 [3078.7s-3080.7s]: Usually that can answer all of your questions.
+SPEAKER_02 [3081.3s-3084.6s]: If you still have more questions, support at udacity.com.
+SPEAKER_02 [3085.4s-3095.0s]: We have a great team of customer support agents that are knee deep in the master's degree and are able to address all of your concerns there if you don't get what you need from the
+SPEAKER_02 [3095.0s-3095.5s]:  community.
+SPEAKER_02 [3096.2s-3099.9s]: If you are not enrolled in the master's, I'm not sure how you got here.
+SPEAKER_02 [3100.3s-3103.2s]: I think that this was only available for master's students.
+SPEAKER_02 [3103.2s-3107.7s]: But if you're not enrolled, you can always enroll directly on udacity.com.
+SPEAKER_02 [3108.3s-3111.8s]: And so all you have to do is find the master's landing page and enroll directly there.
+SPEAKER_01 [3113.4s-3113.6s]:  Great.
+SPEAKER_01 [3114.0s-3114.4s]: Thank you.
+SPEAKER_01 [3115.1s-3116.3s]: We shared a few links in the chat.
+SPEAKER_01 [3116.3s-3117.9s]: We will be sharing this recording.
+SPEAKER_01 [3118.0s-3123.1s]: As Jared just said, there are other ways to reach out to us with additional questions.
+SPEAKER_01 [3123.6s-3126.9s]: And we do a lot of these Q&As and webinars and open houses.
+SPEAKER_01 [3127.0s-3128.9s]: So look for the next one.
+SPEAKER_01 [3128.9s-3130.2s]: Bring your questions to it.
+SPEAKER_02 [3130.5s-3134.8s]:  And real quick, Patrick, let me just, oh, there, Maddie did it as well.
+SPEAKER_02 [3134.9s-3136.8s]: So I know there's been questions about the student guide.
+SPEAKER_02 [3137.2s-3144.2s]: Folks in the chat right now, Maddie, who's on our team, who helps with these webinars, just posted the link to the student guide.
+SPEAKER_02 [3144.4s-3148.3s]: So if you have any questions, that's the best place to get those answers.
+SPEAKER_02 [3148.4s-3148.9s]: Perfect.
+SPEAKER_01 [3148.9s-3149.6s]: Yeah.
+SPEAKER_01 [3149.6s-3150.7s]: Thank you everyone for attending.
+SPEAKER_01 [3150.8s-3153.9s]: We'll see you at the next one or in the classroom.
+SPEAKER_01 [3154.0s-3156.3s]: Best of luck in your master's journey.
+SPEAKER_01 [3156.4s-3157.1s]: Thank you, Jared.
+SPEAKER_01 [3157.1s-3158.1s]: Thank you, Dr.
+SPEAKER_01 [3158.1s-3159.0s]: Brandy Robinson.
+SPEAKER_01 [3159.3s-3161.9s]:  Hope everyone has a great day, afternoon, and evening.
